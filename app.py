@@ -6,8 +6,8 @@ import os
 from gtts import gTTS
 from PIL import Image
 
-st.title("Interfases Multimodales.")
-image = Image.open('text_to_audio.png')
+st.title("El Burro y El Lobo")
+image = Image.open('fabula-burro-lobo.png')
 
 st.image(image, width=200)
 
