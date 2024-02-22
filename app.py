@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 
 st.title("El Burro y El Lobo")
-image = Image.open('fabula-burro-lobo.png')
+image = Image.open('fabula-burro-lobo.jpg')
 
 st.image(image, width=200)
 
